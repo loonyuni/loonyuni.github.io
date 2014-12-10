@@ -2,12 +2,15 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://loonyuni.com
+title: YK. 
+subtitle: My Brain Farts and Word Vomitry 
+author: Youny Kuang
 simple_search: https://www.google.com/search
 description:
+author_bio: 'newly graduated and ready to take on the world'
+avatar: images/uni_shrimp.jpg
+github_user: loonyuni
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +22,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: loonyuni@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -99,3 +102,5 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+
