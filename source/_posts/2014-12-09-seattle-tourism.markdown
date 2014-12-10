@@ -4,6 +4,7 @@ title: "Seattle Tourism"
 date: 2014-12-09 22:32:36 -0800
 comments: true
 categories: [seattle, travel] 
+keywords: seattle, travel, tuor, sightsee
 ---
 
 2 summers ago one of my BFF's Eileen came and visited me in Seattle! So I put together this excel sheet! I still feel like a tourist in The Sound (the equivalent of calling SF area The Bay), so these are just what I do with visiting friends, so if you ever find yourself lucky enough to be in the amazing PNW, these are my suggestions on things to do! 
