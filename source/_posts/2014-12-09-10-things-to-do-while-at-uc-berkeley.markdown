@@ -59,7 +59,7 @@ There aren't really that many great trails to run around Berkeley, but these few
 	
 - Also I do suggest you take a graduate class if you can! Be it a seminar, or whatever, you get to see what the NEXT level is like. And also most of the time, they curve to an A for a bunch of funding reasons. 
 
-##### 7. MORE FOOD
+#### 7. MORE FOOD
 - Burma Superstar
 	* You don't come here for normal food. You come here for salads. You NEED to get the **Tea Leaf Salad** and the **Rainbow Salad**. Thank me later. 
 - Daras or Cha'am
@@ -77,17 +77,17 @@ There aren't really that many great trails to run around Berkeley, but these few
 - Indian Flavors Express / House of Curries
 	* I don't know much about Indian Food, but I also just really like these places! 
 
-##### 8. Study Abroad
+#### 8. Study Abroad
 
 I didn't get to do this, but it's one of my biggest regrets, do this early! Or in the summer, so you can actually take credits like those pesky pre-res that matter (often easier abroad... if you're into that). Or save up a bunch of breadth classes and take them all at once while you're abroad! 
 
-##### 9. Do Something You Don't Even Think You'd Like
+#### 9. Do Something You Don't Even Think You'd Like
 
 I wish I had joined a dance group, or acapella, or heck Korean Drumming. I found that I tried too hard to be all academic. But think about it! After you graduate, you don't get these sorts of opportunities. I've been checking out meetup, a website where like minded people can organize and meet, sort of like clubs but it isn't the same! Don't just try and join professional clubs or honor societies, as great as they are, do what my asian parents would call "useless" activities and start new hobbies! 
 
 But also do things that will allow you to contribute back to the community, while learning real skills, like volunteer clubs, no matter what major you are you can apply your skills to help someone. I only know STEM ones such as Blueprint, BEAM, Engineers Without Borders, Suitcase Clinic... etc. Don't get regrets like me :(
 
 
-##### 10. Rock it out! 
+#### 10. Rock it out! 
 You're here to learn. To grow. To change. You're here to find your bridesmaids, your groomsmen. If you are passionate about something, do it! Or hell, do everything until you find out what your passionate about. 
 That's what I sort of did, and I'm still not done figuring all of that out. But I don't *completely* regret all the time I spent trying all the other things. 
