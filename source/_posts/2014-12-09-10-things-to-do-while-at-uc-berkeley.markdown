@@ -4,7 +4,7 @@ title: "10 Things to do while at UC Berkeley"
 date: 2014-12-09 19:07:26 -0800
 comments: true
 published: true
-categories: [life, berkeley]
+categories: [life, berkeley, travel]
 ---
 
 Some of the following will be very simple, things that you would hear about within 10 minutes of being in Berkeley. Others are not even specific to Berkeley, but I think are very meaningful, and others are small things that I have discovered while at Berkeley and are responsible for some of my favorite memories here. 
