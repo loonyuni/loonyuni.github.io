@@ -1,0 +1,31 @@
+---
+layout: post
+title: "empowerment project"
+date: 2014-12-11 17:12:41 -0800
+comments: true
+published: true
+categories: [life, music]
+---
+
+So in FemSex we have had many different projects, all very meaningful, the last one that we had to do was empowerment. Some FemSexies did guided meditation, danced, EFT, and *more* ;). It was anything that empowers you, or deals with empowerment. So I wrote the little speech below, and performed a song. Because I can't sing through written words, I recorded a youtube video of the song I chose to sing for my recital, which, was *WAY* out of my league. So sorry that it's really pitchy, but NOT sorry for trying :). 
+
+**Empowerment Project:**
+
+I used  be one sassy 5 year old. I don’t know where the validation of this cocky brattiness stemmed from, but I wish I still had some of that. I don’t know if it was elementary school bullying, or what occasion, or even when, but I know by middle school, I had become a very scared to shine, or stand out. I saw how a lot of kids, mainly girls who weren't afraid to show off their skills, got talked a lot about behind their backs. “She’s trying too hard”, “She just wants all the attention”… etc. So I think somewhere along there, I tried not to take the spotlight. That and a series of rejections, from elections, auditions, and heck even boys, made me doubt my self worth. I think we do sort of live in a society where modesty is appreciated, but I realize now that my view of modesty has been skewed. 
+
+>You see, being modest is not about suppressing your own sense of self worth. Rather, being modest is about uplifting the positive virtues of others with respect to your own. So being able to recognize other people’s talents and abilities as well. 
+
+>Now let's consider confidence. I believe that confidence has less to do with how much self worth you have, and more to do with where you derive your self worth.<sup>1</sup>
+
+<!--more-->
+
+So, one big example for me, is singing. I love to sing. But I never really sing in front of people. I’ll sing in the shower, and maybe sing around the house, as I’m comfortable with my family, and turn my car ride to work into a mobile belting booth. But I’ve had a hard time singing in front of people.  There’s always been this fear that I’m not really good enough, and this sort of feeling extended beyond just singing. And even if I was good, I didn’t want people to think of me as those middle school girls had thought about others who tried. I just still have a hard time with accepting any sort of limelight. Furthermore, this anxiety builds up, and even if I were to try and sing in front of people, nerves really throw off your pitch, or memory of lyrics, and all sorts of hullabaloo. 
+
+College was even harder, because I was always living with other people, and even if I wasn't, the walls in my apartment are so thin, I can hear my upstairs neighbors phone vibrate. Thus it's been hard for me to find an opportunity to really sing. I had slowly been getting better at singing in front of others, but the majority of the time, I just couldn't. This semester though, I am taking a singing class (Music 44) and we’ve had to do a lot of "public singing", and we have a recital coming up! So I’ve started singing more in front of people, and not just the under my breath sort of singing and humming, but like big ass diva shit. Which brings me to my next thing, my favorite singers are Beyonce and Whitney Houston, and when I sing the songs of these queens, my 5 year old inner diva comes out again and I feel empowered as fuck! So if it’s okay with you, I’d like to sing you a bit of a song, it’s lyrics may not be so empowering, but its Whitney, and it’s the shit. And I hope that all of you will never shy away from an opportunity to shine, and keep trying to do something you like because if you don’t try then you won’t be able to get better, and I didn’t even know I could “sing” (decently?) until I actually sang in front of others! I really regret not trying harder to be part of some choir or Acapella group on campus. So fuck bitches who want to put you down, who cares if they think you’re “trying too hard”. That’s right, dammit! I am trying hard, and I don’t think you can ever try too hard to get better at something that you like doing. Being modest is good, but being confident is just as important! And you can definitely be both. 
+
+I’m still working on being able to sing, and sing in front of others, but practice makes perfect! On that note, let’s all get boozed up and go karaoke sometime! 
+
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/yzrK2X60_VY?start=3" frameborder="0" allowfullscreen></iframe>
+
+<sup>1</sup> [Lisa Lin](http://qr.ae/qHKDm)
