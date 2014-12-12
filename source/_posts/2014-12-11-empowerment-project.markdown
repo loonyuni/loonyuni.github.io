@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "empowerment project"
+title: "Empowerment Project"
 date: 2014-12-11 17:12:41 -0800
 comments: true
 published: true
