@@ -15,7 +15,7 @@ _*My family doesn’t vacation too much these days, however this year, my savvy 
 We sailed on the Norwegian Epic, which came fully equipped with 3 water slides (one of them was the infamous toilet bowl), a fitness center better than the gym at Berkeley, a jogging track, over 9 dining options, an ice bar, several rock climbing walls, a buttload of shows, pools, casinos, and a whole bunch of other things that you would find in a Las Vegas resort. *_
 
 Now this was my first cruise, and people tell you about the abundance of food, but no one really prepares you for the onslaught of food. If you had a functional grhelin (hunger) pathway before, you sure don’t have it anymore.  There was free room service. There was 24/7 dining. There were buffets (with very good food). There were gourmet desserts and restaurants, and there was absolutely **no self control.**
-
+<!-- more -->
 The cruise went had 3 stops, 4 if you include Miami: Nassau, Bahamas; Ocho Rios, Jamaica; and Cozumel, Mexico. 
 
 This trip was as touristy as possible. There was no real immersion into any local culture or foods. At each stop, there were rows of 'Tax and Duty Free' jewelry shops. There was even a Hooters at our last stop. (I watched [this documentary](http://www.imdb.com/title/tt1624431/) and am now jaded :( )
