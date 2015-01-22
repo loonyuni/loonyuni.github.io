@@ -4,6 +4,7 @@ title: "Like I Can"
 date: 2015-01-16 13:51:43 -0800
 comments: true
 categories: music
+keywords: Sam, Smith, cover
 ---
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/YQanS-al8Ak" frameborder="0" allowfullscreen></iframe>

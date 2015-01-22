@@ -4,6 +4,7 @@ title: "Winter Vacation 2014"
 date: 2015-01-05 22:54:44 -0800
 comments: true
 categories: travel
+keywords: travel, carribean, cruise, norwegian, florida, video
 ---
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/GV1SyXw0UlQ" frameborder="0" allowfullscreen></iframe>
