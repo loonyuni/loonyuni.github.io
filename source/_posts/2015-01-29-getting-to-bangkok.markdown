@@ -3,12 +3,13 @@ layout: post
 title: "Getting to Bangkok"
 date: 2015-01-29 03:19:16 +0900
 comments: true
-categories: 
+categories: travel, thailand
+keywords: travel, blog, bangkok, thailand
 ---
 
 ## On the Plane
 
-I finished gone girl. Even though I had read through the Wikipedia entries for both the novel and the film, I was entraced. (Like a mosquito flying with UV light in sight) It's been a while since I've read a book - almost a year actually haha. It's such a great feeling when you're immersed in a good book and half of you wants to read slowly; absorbing the metaphors that test your imagination and witty prose that makes you feel sharp, whilst the other half wishes you could read 600 wpm because the plot is so thick with excitement. I struggled between the two and often found myself impatient, skipping and reading every other paragraph near the end only to feel guilty as well as confused and go back to reread correctly. After finishing gone girl I did a lot of reflection, wondering how good the movie really was, and if they got all the clever details that Amazing Amy would never forget.
+I finished gone girl. Even though I had read through the Wikipedia entries for both the novel and the film, I was entraced. (Like a mosquito flying with UV light in sight) It's been a while since I've read a book - almost a year actually haha. It's such a great feeling when you're immersed in a good book and half of you wants to read slowly; absorbing the metaphors that test your imagination and witty prose that makes you feel sharp, whilst the other half wishes you could read 600 wpm because the plot is so thick with excitement. I struggled between the two and often found myself impatient, skipping and reading every other paragraph near the end only to feel guilty as well as confused and go back to re-read correctly. After finishing, all I could do was think about wanting to watch the movie.
 
 I started "Bossypants" by Tina fey and listened to a bit of "Yes, Please!"" from Amy Poehler but after Gone Girl their sarcastic memoirs seemed superficial. I know them to be not, these bombastic besties are buzzfeed/tumblr idols of mine but alas I did the opposite of what they probably would do. Gorge myself on airplane food. No, I was not hungry at all at any point on this journey, however my curiosity is stronger than the seam of my high waisted skinny jeans I decided to dawn on my 22 hour transportation fiasco, I don't know the definition of "traveling comfortably".
 
