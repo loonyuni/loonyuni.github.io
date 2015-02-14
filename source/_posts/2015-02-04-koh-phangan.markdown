@@ -7,7 +7,6 @@ categories: travel, thailand
 keywords: travel, Full Moon Party, Koh Phangnan, thailand, blog
 ---
 
-## Koh Phangan
 We took a bus from Surat Thani to Donsak and then a ferry from Donsak to Koh Phangan. (I also suggest you buy everything as a package deal from Hualamphong Station or other travel agencies). We tried planning ahead for too many things, and it may have bit us in the butt, as we ended up paying for each leg of the trip individually.
 
 {% img http://i.imgur.com/nXv5z0W.jpg %}
@@ -33,7 +32,7 @@ The entire beach was covered with human beings. Everyone wasted drunk from sketc
 
 Oh! Another pro of living right near haadrin beach is that you don't have to pay an entrance fee to the party, nor pay for a taxi or ferry to get to the location. 
 
-And it is here, that my fake Birkenstocks were stolen. I also lost a pair of shorts and sunglasses. Thomas also suspects that some of his cash was stolen... sigh, shit happens. 
+And it is here, that my fake Birkenstocks were stolen. I also lost a pair of shorts and sunglasses. ...sigh, shit happens. 
 
 We left Koh Phangnan at 9 AM, meaning we only really got 3 hours of sleep, and spent the entirety of 2/4/15 on busses and ferrys getting to Phuket. We are finally in Phuket, and dismayed to find that things are super expensive here (relative to Bangkok). :( 
 
