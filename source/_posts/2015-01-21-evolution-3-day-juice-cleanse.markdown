@@ -3,8 +3,8 @@ layout: post
 title: "Evolution 3 Day Juice Cleanse"
 date: 2015-01-21 20:20:02 -0800
 comments: true
-categories: life, health
-keywords: 3 day juice cleanse, cleanse, juice, evolution, three, day
+categories: [life, health]
+keywords: "3 day juice cleanse, cleanse, juice, evolution, three, day"
 ---
 
 ### Pregame 

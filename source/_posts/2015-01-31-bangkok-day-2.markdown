@@ -3,8 +3,8 @@ layout: post
 title: "Bangkok Day 2"
 date: 2015-01-31 08:04:21 +0700
 comments: true
-categories: travel, thailand
-keywords: travel, bangkok, thailand, blog
+categories: [travel, thailand]
+keywords: "travel, bangkok, thailand, blog"
 ---
 
 ## Day Two

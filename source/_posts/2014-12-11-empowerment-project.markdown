@@ -5,7 +5,7 @@ date: 2014-12-11 17:12:41 -0800
 comments: true
 published: true
 categories: [life, music]
-keywords: youny, kuang, singing, whitney, houston, cover
+keywords: "youny, kuang, singing, whitney, houston, cover"
 ---
 
 So in FemSex we have had many different projects, all very meaningful, the last one that we had to do was empowerment. Some FemSexies did guided meditation, danced, EFT, and *more* ;). It was anything that empowers you, or deals with empowerment. So I wrote the little speech below, and performed a song. Because I can't sing through written words, I recorded a youtube video of the song I chose to sing for my recital, which, was *WAY* out of my league. So sorry that it's really pitchy, but NOT sorry for trying :). 

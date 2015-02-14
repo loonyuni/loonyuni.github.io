@@ -3,8 +3,8 @@ layout: post
 title: "Phuket"
 date: 2015-02-14 23:19:03 +0800
 comments: true
-categories: travel, thailand
-keywords: travel, Phuket, Patong, Boxing, SE Asia, thailand, blog
+categories: [travel, thailand]
+keywords: "travel, Phuket, Patong, Boxing, SE Asia, thailand, blog"
 ---
 
 So... we got robbed. Not sure when, where, or how. Thomas' guess is the hostel where about 20 people shared a room, and it was basically a free for all during the Full Moon Party or when everyone was asleep. My guess is there was someone going through our belongings on the bus from Surat Thani to Phuket. 

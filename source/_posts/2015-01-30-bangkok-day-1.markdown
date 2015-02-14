@@ -3,8 +3,8 @@ layout: post
 title: "Bangkok Day 1"
 date: 2015-01-30 07:31:27 +0700
 comments: true
-categories: travel, thailand
-keywords: travel, blog, bangkok, thailand
+categories: [travel, thailand]
+keywords: "travel, blog, bangkok, thailand"
 ---
 
 ### Preamble

@@ -3,8 +3,8 @@ layout: post
 title: "Bangkok Day 3 &amp; 4"
 date: 2015-02-04 23:41:47 +0700
 comments: true
-categories: travel, thailand
-keywords: travel, bangkok, thailand, blog 
+categories: [travel, thailand]
+keywords: "travel, bangkok, thailand, blog, JJ Market"
 ---
 
 An update on our "illnesses", we proceeded henceforth to eat plenty of yogurt each day and tried our best to eat more fiber. We believe that the initial cause for intestinal unrest was due to this weird porridge we had decided to try the morning of day 2. We hanve since then been much more consistent in our daily BM's. lol. Bring probiotic pills friends. 

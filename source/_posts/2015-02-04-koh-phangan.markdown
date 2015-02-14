@@ -3,8 +3,8 @@ layout: post
 title: "Koh Phangan"
 date: 2015-02-04 23:41:56 +0700
 comments: true
-categories: travel, thailand
-keywords: travel, Full Moon Party, Koh Phangnan, thailand, blog
+categories: [travel, thailand]
+keywords: "travel, Full Moon Party, Koh Phangnan, thailand, blog"
 ---
 
 We took a bus from Surat Thani to Donsak and then a ferry from Donsak to Koh Phangan. (I also suggest you buy everything as a package deal from Hualamphong Station or other travel agencies). We tried planning ahead for too many things, and it may have bit us in the butt, as we ended up paying for each leg of the trip individually.

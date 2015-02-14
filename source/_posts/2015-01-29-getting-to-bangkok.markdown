@@ -3,8 +3,8 @@ layout: post
 title: "Getting to Bangkok"
 date: 2015-01-29 03:19:16 +0900
 comments: true
-categories: travel, thailand
-keywords: travel, blog, bangkok, thailand
+categories: [travel, thailand]
+keywords: "travel, blog, bangkok, thailand"
 ---
 
 ## On the Plane
