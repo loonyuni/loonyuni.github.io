@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Life | YK.]]></title>
   <link href="http://loonyuni.com/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://loonyuni.com/"/>
-  <updated>2015-02-15T00:19:42+08:00</updated>
+  <updated>2015-03-05T22:32:55-08:00</updated>
   <id>http://loonyuni.com/</id>
   <author>
     <name><![CDATA[Youny Kuang]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Evolution 3 Day Juice Cleanse]]></title>
-    <link href="http://loonyuni.com/blog/2015/01/22/evolution-3-day-juice-cleanse/"/>
-    <updated>2015-01-22T12:20:02+08:00</updated>
-    <id>http://loonyuni.com/blog/2015/01/22/evolution-3-day-juice-cleanse</id>
+    <link href="http://loonyuni.com/blog/2015/01/21/evolution-3-day-juice-cleanse/"/>
+    <updated>2015-01-21T20:20:02-08:00</updated>
+    <id>http://loonyuni.com/blog/2015/01/21/evolution-3-day-juice-cleanse</id>
     <content type="html"><![CDATA[<h3>Pregame</h3>
 
 <p>I gained <strong>20</strong> pounds in college. I don’t think I need to explain the unhealthy eating habits that easily became me. Something that I also noticed within my freshmen and sophomore years is the more and more I studied, the less I went to uhh &ldquo;party&rdquo;, and the less I felt the pressure to “look good”. Not to sound vain, but it’s true, less skimpy clothes and more sweat pants gave me a lot more room to uhh… inflate. I think it’s fine that my priorities had shifted from health to education, but now that that’s over with. I’m shifting back!</p>
@@ -32,11 +32,11 @@
 
 <p>So now, Jan 18 2015, I have decided to do a juice cleanse. It is more of a challenge, than for weight loss. After a bit of research, I chose to do the <a href="http://www.evolutionfresh.com/3DaysToGreen/">Evolution 3 day juice cleanse</a>. They’re having a 20% off deal right now, so it ends up being about $26 a day, which for a person that eats out a lot (like I used to), isn’t too bad! You can sort of choose whatever packs you want for each day, they have an <strong>easy pack</strong>, which is sweeter and I guess better for beginners, a <strong>balanced pack</strong> which is supposed to be a better nutrient supplement, and a <strong>green pack</strong> which is exactly what it sounds like, lots of greens.  You can also get organic packs, and customize your own packs. Each pack comes with 6 juices, and you’re supposed to drink those 6 juices per day of the cleanse. I decided to go with 2 green packs (because I always loved the green machine from Naked, and I thought it would have less sugar), and one balanced pack, just to mix it up, or <em>balance</em> it out.</p>
 
-<p><img class="center <a" src="href="http://i.imgur.com/fejZkZj.jpg">http://i.imgur.com/fejZkZj.jpg</a>&#8221; width=&#8221;350&#8221;></p>
+<p>{% img center <a href="http://i.imgur.com/fejZkZj.jpg">http://i.imgur.com/fejZkZj.jpg</a> 350 %}</p>
 
 <h3>Day One - Green Pack</h3>
 
-<p><img class="center <a" src="href="http://i.imgur.com/vMKNrsE.jpg">http://i.imgur.com/vMKNrsE.jpg</a>&#8221; width=&#8221;350&#8221;></p>
+<p>{% img center <a href="http://i.imgur.com/vMKNrsE.jpg">http://i.imgur.com/vMKNrsE.jpg</a> 350 %}</p>
 
 <h5>10 AM</h5>
 
@@ -48,7 +48,7 @@
 
 <hr />
 
-<p><img class="center <a" src="href="http://i.imgur.com/uXCXk0p.jpg">http://i.imgur.com/uXCXk0p.jpg</a>&#8221; width=&#8221;350&#8221;></p>
+<p>{% img center <a href="http://i.imgur.com/uXCXk0p.jpg">http://i.imgur.com/uXCXk0p.jpg</a> 350 %}</p>
 
 <p>A friend from SF was visiting and we went out to lunch at Lot 3… I got a half salad, that may have had way too much blue cheese for a cleanse! I also had a couple of fries (And I really only mean a couple). Over this weekend I also met a bunch of Australian friends that work for <a href="https://www.shoesofprey.com/">Shoes of Prey</a>, and they told me to try an Australian snack, and because it’s the last chance I would be able to do so, I tried it. It was a tim tam cookie. lol. I also drank some green tea in between.</p>
 
@@ -99,7 +99,7 @@
 
 <p>Got my wisdom teeth taken out. But it was so fast! And I don’t think I have any swelling. Job well done Dr. Anderson. I sort of planned this juice cleanse around this, as I have to mainly consume liquids anyways! But as hunger stroke, I had a pesto kale salad and a Sweet Greens and Lemon Juice. I had to very slowly chew on the left side of my mouth, I basically swallowed half of these leaves and tomatoes whole.</p>
 
-<p><img class="center <a" src="href="http://i.imgur.com/DoGxXFB.jpg">http://i.imgur.com/DoGxXFB.jpg</a>&#8221; width=&#8221;350&#8221;></p>
+<p>{% img center <a href="http://i.imgur.com/DoGxXFB.jpg">http://i.imgur.com/DoGxXFB.jpg</a> 350 %}</p>
 
 <p>For those who don’t know pesto can easily be deliciously made by blending some olive oil, parmesan, and basil together!</p>
 
@@ -163,9 +163,9 @@
   
   <entry>
     <title type="html"><![CDATA[Empowerment Project]]></title>
-    <link href="http://loonyuni.com/blog/2014/12/12/empowerment-project/"/>
-    <updated>2014-12-12T09:12:41+08:00</updated>
-    <id>http://loonyuni.com/blog/2014/12/12/empowerment-project</id>
+    <link href="http://loonyuni.com/blog/2014/12/11/empowerment-project/"/>
+    <updated>2014-12-11T17:12:41-08:00</updated>
+    <id>http://loonyuni.com/blog/2014/12/11/empowerment-project</id>
     <content type="html"><![CDATA[<p>So in FemSex we have had many different projects, all very meaningful, the last one that we had to do was empowerment. Some FemSexies did guided meditation, danced, EFT, and <em>more</em> ;). It was anything that empowers you, or deals with empowerment. So I wrote the little speech below, and performed a song. Because I can&rsquo;t sing through written words, I recorded a youtube video of the song I chose to sing for my recital, which, was <em>WAY</em> out of my league. So sorry that it&rsquo;s really pitchy, but NOT sorry for trying :).</p>
 
 <p><strong>Empowerment Project:</strong></p>
@@ -194,9 +194,9 @@
   
   <entry>
     <title type="html"><![CDATA[10 Things to Do While at UC Berkeley]]></title>
-    <link href="http://loonyuni.com/blog/2014/12/10/10-things-to-do-while-at-uc-berkeley/"/>
-    <updated>2014-12-10T11:07:26+08:00</updated>
-    <id>http://loonyuni.com/blog/2014/12/10/10-things-to-do-while-at-uc-berkeley</id>
+    <link href="http://loonyuni.com/blog/2014/12/09/10-things-to-do-while-at-uc-berkeley/"/>
+    <updated>2014-12-09T19:07:26-08:00</updated>
+    <id>http://loonyuni.com/blog/2014/12/09/10-things-to-do-while-at-uc-berkeley</id>
     <content type="html"><![CDATA[<p>Some of the following will be very simple, things that you would hear about within 10 minutes of being in Berkeley. Others are not even specific to Berkeley, but I think are very meaningful, and others are small things that I have discovered while at Berkeley and are responsible for some of my favorite memories here.</p>
 
 <h4>1. Go to the Marina!</h4>
