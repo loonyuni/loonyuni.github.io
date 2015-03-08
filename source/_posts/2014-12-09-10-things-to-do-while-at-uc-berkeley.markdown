@@ -23,9 +23,14 @@ Be VERY careful if you attempt some of these... I've gotten lucky with a slap on
 - Climb onto the window sills of Doe Library (super dope on 420)	
 - It's probably gone, but there used to be a couch on top of one of the clark kerr buildings, you can star gaze or something! 
 - I still need to be employable so I won't say any more.
+
+#### 3. Dolla Dolla Sundays Ya'll
+
+So you can go watch horse racing for a DOLLA. On Sunday's entry fee is only one dollar, and guess what else is only a dollar... BEER AND HOT DOGS. No joke, for real, it's all only ONE dollar. And I don't condone gambling, but betting here and there is fun! The minimum bet is $2, which for a non working student can add up, but who knows you may win, and it's a fun way to hang out with friends and bet on the horse with the coolest name like Thunder Gulch or Passion Star Arising. 
+
 <!--more-->
 		
-#### 3. Go Outside!
+#### 4. Go Outside!
 There aren't really that many great trails to run around Berkeley, but these few do the job.  
 
 - Indian Rock 
@@ -34,14 +39,14 @@ There aren't really that many great trails to run around Berkeley, but these few
 - Tilden Park
 - Grizzly Peak
 	
-#### 4. Do Research! 
+#### 5. Do Research! 
  Doesn't matter what field you're in, I think it really shows you what's really happening at Berkeley. Sure it's this great academic institution, but above all else it's a research institution, with some bad ass people. Furthermore Berkeley is a very theoretical school, and research allows you to apply things you learned in class, and research is the stuff happening at the very forefront of the fields, you'll get to help push boundaries! Not only do you learn about your field (or others - who says you have to do research in your own field!?), you get over any fears of talking to professors and grad students, and make long lasting friendships - and hey recommendation letters never hurt nobody! And it may seem intimidating at first to get a research position, but trust me there is no shortage of opportunities.
  	
-#### 5. Stay Well Rounded
+#### 6. Stay Well Rounded
  - It can be very easy to pigeonhole yourself to stay with one group of friends, and I know that by sophomore year, you probably think you already know what you like and want out of your friends, but be open. You never know how someone can change your life (hopefully for the better) if you let them. 
  - And don't forget to take fun classes, requirements are important, and maybe you love Chemistry SO much that you really want to just take all the relevant Chemistry classes possible, even graduate level courses, and that's great, but try to take your breadth requirements seriously, even if you P/NP them, take the opportunity to learn! And take those classes to meet people outside of your major and learn from them! and omg look at that, below are some dope classes I think ya'll should take, and some I wish I took!
  	
-#### 6. Stay Classy!
+#### 7. Stay Classy!
 - PH 116
 	* an easy and pretty insightful class, we had an undercover cop come in and talk about prostitution, we are quite sheltered on campus, but just next door in Oakland there are so many issues that we all should be educated on. 
 - Wealth and Poverty
@@ -60,7 +65,7 @@ There aren't really that many great trails to run around Berkeley, but these few
 	
 - Also I do suggest you take a graduate class if you can! Be it a seminar, or whatever, you get to see what the NEXT level is like. And also most of the time, they curve to an A for a bunch of funding reasons. 
 
-#### 7. MORE FOOD
+#### 8. MORE FOOD
 - Burma Superstar
 	* You don't come here for normal food. You come here for salads. You NEED to get the **Tea Leaf Salad** and the **Rainbow Salad**. Thank me later. 
 - Daras or Cha'am
@@ -78,17 +83,17 @@ There aren't really that many great trails to run around Berkeley, but these few
 - Indian Flavors Express / House of Curries
 	* I don't know much about Indian Food, but I also just really like these places! 
 
-#### 8. Study Abroad
+#### 9. Study Abroad
 
 I didn't get to do this, but it's one of my biggest regrets, do this early! Or in the summer, so you can actually take credits like those pesky pre-res that matter (often easier abroad... if you're into that). Or save up a bunch of breadth classes and take them all at once while you're abroad! 
 
-#### 9. Do Something You Don't Even Think You'd Like
+#### 10. Do Something You Don't Even Think You'd Like
 
 I wish I had joined a dance group, or acapella, or heck Korean Drumming. I found that I tried too hard to be all academic. But think about it! After you graduate, you don't get these sorts of opportunities. I've been checking out meetup, a website where like minded people can organize and meet, sort of like clubs but it isn't the same! Don't just try and join professional clubs or honor societies, as great as they are, do what my asian parents would call "useless" activities and start new hobbies! 
 
 But also do things that will allow you to contribute back to the community, while learning real skills, like volunteer clubs, no matter what major you are you can apply your skills to help someone. I only know STEM ones such as Blueprint, BEAM, Engineers Without Borders, Suitcase Clinic... etc. Don't get regrets like me :(
 
 
-#### 10. Rock it out! 
+#### 11. Rock it out! 
 You're here to learn. To grow. To change. You're here to find your bridesmaids, your groomsmen. If you are passionate about something, do it! Or hell, do everything until you find out what your passionate about. 
 That's what I sort of did, and I'm still not done figuring all of that out. But I don't *completely* regret all the time I spent trying all the other things. 

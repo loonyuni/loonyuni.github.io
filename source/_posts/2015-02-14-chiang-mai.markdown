@@ -12,11 +12,11 @@ keywords: "travel, Chiang Mai, elephants, ziplining, bamboo rafting, thai, cooki
 
 In Chiang Mai we met up with Eileen and Ivan <3 !
 
-{% img /images/tuktuk_together.jpg 550 %}
+{% img left /images/tuktuk_together.jpg 550 %}
 
 The first night we went into Old Chiang Mai, and the flower festival happened to be going on! It apparently only occurs like 3 times in February, so we were quite lucky! 
 
-{% img /images/flower_fest.JPG %}
+{% img right /images/flower_fest.JPG %}
 
 We then to visit the Sunday Market which is right behind Tapthae Gate. It was a lively market, with lots of food, similar to the many other night markets we had visited previously. **BUT**, everything was much cheaper. The selection may have been smaller, but if you are looking for any of those famous "Thai Tourist" pants/shorts or some pashminas, wait until you get to Chiang Mai before purchasing. 
 
@@ -28,15 +28,15 @@ The next day we signed up for a Skyline Adventures package where you pay 1,800 b
 ### Elephants
 First the bus took us to ride elephants. I know, I know, riding elephants is bad. And we saw them use the bow hook tool to hit the elephants as well as tug on their ear to direct them. Eileen and Ivan also went to an elephant conservatory in Cambodia, and Thomas and I also read online a lot of the horrors that come along with elephant/tiger exhibition. But it was part of the package deal and we decided to just do it :/. 
 
-{% img /images/elephantear.jpg 550 %}
+{% img left /images/elephantear.jpg 550 %}
 
 Anyways, we got to see one of the elephants poo in the river, and these majestic creatures have equally majestic excrements. They were the size of bowling  balls, and they just kept going! As we were traversing the river, our elephant decided to suck in some mixture of water and sand to spray upon itself to cool itself down. However, we were riding upon said elephant, so Thomas and I got sprayed with these small rocks and water. It was surprising, hilarious, and a little gross. Thomas had this big piece of elephant snot on his cheek lol. 
 
-{% img /images/booger.jpg 550 %}
+{% img center /images/booger.jpg 550 %}
 
 Side note, they were using a car battery to power a printer for pictures! How cool is that
 
-{% img /images/printer_car.JPG 550 %}
+{% img center /images/printer_car.JPG 550 %}
 
 ### Bamboo Rafting
 
@@ -45,6 +45,7 @@ This was awesome! It's exactly what it sounds like, but the river they take you 
 It was sort of like extreme scenic paddleboarding. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l6c7m-oJyQM" frameborder="0" allowfullscreen></iframe>
+
 
 <!-- more -->
 
@@ -75,11 +76,11 @@ Dude!! These are amazing. Small somewhat of a digression; even as an ethnically 
 
 We learned everything needed to cook most Thai dishes, and even made our own curry paste! It was very fun, and you definitely learn a lot. They also give you a recipe book and a little certificate saying you completed the course lol. I cannot wait to cook Thai food at home! :) 
 
-{% img /images/apron.JPG 550%}
+{% img left /images/apron.JPG 550%}
 
-{% img /images/fire.JPG 550%}
+{% img right /images/fire.JPG 550%}
 
-{% img /images/group_cook.jpg 550%}
+{% img left /images/group_cook.jpg 550%}
 
 ### Doi Suthep
 
